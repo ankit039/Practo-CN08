@@ -1,0 +1,10 @@
+.main {
+    /* display: block; */
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+  }
+
+.card{
+    border: solid;
+    padding: 5px;
+}
